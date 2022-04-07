@@ -1,6 +1,6 @@
 describe("cobrar", function() {
   it("deberia poder cobrar un honorario", function() {
-    cobrar(["2000"])
+    cobrar([2000])
     assert.equal(saldoEnCuenta, 3000)
   });
   
