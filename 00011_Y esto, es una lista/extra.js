@@ -20,4 +20,4 @@ function listasIguales(unArray, otroArray) /*<elipsis-for-student@*/ {
 //  ム listasIguales([1, 2, 3], [4, 5, 3])
 //  false
 
-var personas = ["mara", "julian"];
+let personas = ["mara", "julian"];
