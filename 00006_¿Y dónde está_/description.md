@@ -1,7 +1,7 @@
 Otra cosa que queremos hacer con las listas es saber en qué posición se encuentra un elemento. Para ello utilizamos la primitiva `indexOf` de la siguiente manera:
 
 ```javascript
-["a", "la", "grande", "le", "puse", "cuca"].indexOf("grande"); //devuelve 2
+["a", "la", "grande", "le", "puse", "cuca"].indexOf("grande"); //retorna 2
 
 let diasLaborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
 diasLaborales.indexOf("lunes") //retorna 0
