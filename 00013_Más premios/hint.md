@@ -1,0 +1,1 @@
+¿En qué nos puede ser útil una lista aquí? Si tuvieramos una lista con las medallas, el puesto nos puede ayudar a saber cuál corresponde. :wink:
