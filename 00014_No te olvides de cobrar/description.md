@@ -18,12 +18,11 @@ Si teníamos $500 en nuestra billetera, después del `for` nos van a quedar $303
 > Completá el procedimiento `cobrar` que recibe una lista de honorarios y aumenta el saldo en la variable `saldoEnCuenta`.
 >
 > ``` javascript
-ム saludar(["Don Pepito", "Don Jose"])
-hola Don Pepito
-hola Don Jose
+ム saldoEnCuenta
+1000
 >
-ム saludar(["Elena", "Hector", "Tita"])
-hola Elena
-hola Hector
-hola Tita
+ム cobrar([100, 200])
+>
+ム saldoEnCuenta
+1300
 ```
