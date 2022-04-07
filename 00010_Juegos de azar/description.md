@@ -13,6 +13,3 @@ Por suerte también podemos representar conjuntos de números o booleanos, de ig
 > * `numerosDeLoteria`
 > * `salioCara`
 > * `[[1, 2, 3], [4, 5, 6]]`
-
-
-
