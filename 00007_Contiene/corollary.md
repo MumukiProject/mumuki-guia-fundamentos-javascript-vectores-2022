@@ -6,5 +6,5 @@ Por tanto, `indexOf` en realidad devuelve la posición de la _primera aparición
 
 ```javascript
 ム ["qué", "es", "eso", "eso", "es", "queso"].indexOf("es")
-1 //devuelve 1 porque si bien "es" también está en la posición 4, aparece primero en la posición 1.
+1 //retorna 1 porque si bien "es" también está en la posición 4, aparece primero en la posición 1.
 ```
