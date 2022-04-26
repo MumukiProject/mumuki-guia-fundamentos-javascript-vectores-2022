@@ -2,7 +2,7 @@ Por el momento ya sabemos qué cosas podemos representar con listas, y cómo hac
 
 Empecemos por lo fácil: saber cuántos elementos hay en la lista. Esto lo podemos hacer utilizando la primitiva `length`, de forma similar a lo que hacíamos con los strings.
 
-> Realizá las siguientes consultas en la consola: 
+> Realizá en orden las siguientes consultas en la consola: 
 > 
 > * `[].length`
 > * `numerosDeLoteria.length`
