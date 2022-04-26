@@ -8,7 +8,7 @@ let salioCara = [false, false, true, false];
 
 Por suerte también podemos representar conjuntos de números o booleanos, de igual forma: escribiéndolos entre corchetes y separados por comas. Podemos tener listas de números, de strings, de booleanos, etc. ¡Incluso podríamos tener listas de listas!
 
-> Veamos si queda claro. Probá en la consola las siguientes consultas: 
+> Veamos si queda claro. Probá en orden en la consola las siguientes consultas: 
 > 
 > * `numerosDeLoteria`
 > * `salioCara`
