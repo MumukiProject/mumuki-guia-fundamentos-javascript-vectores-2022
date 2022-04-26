@@ -13,4 +13,4 @@ Podemos notar que `push` agrega un elemento a la lista, lo cual hace que su tama
 
 > Averigualo vos: inspeccioná en la consola qué elementos contiene `libros`, agregale `"Fundación"` y volvé a inspeccionar `libros`.
 >
-> Además existe una primitiva `pop`, que no recibe argumentos. Investigá en la consola qué hace. :eyes:
+> Para finalizar, probá la primitiva `pop`, que no recibe argumentos, ¿te imaginás que hace? :eyes:
