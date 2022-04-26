@@ -1,0 +1,1 @@
+Recordá que las posiciones en las listas comienzan en 0, por lo que para pedir el elemento 13 tenés que hacer `[12]`. :face_with_hand_over_mouth:
