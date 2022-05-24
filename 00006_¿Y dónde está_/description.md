@@ -1,4 +1,4 @@
-Otra cosa que queremos hacer con las listas es saber en qué posición se encuentra un elemento. Para ello utilizamos la primitiva `indexOf` de la siguiente manera:
+ Otra cosa que queremos hacer con las listas es saber en qué posición se encuentra un elemento. Para ello utilizamos la primitiva `indexOf` de la siguiente manera:
 
 ```javascript
 ["a", "la", "grande", "le", "puse", "cuca"].indexOf("grande"); //retorna 2
@@ -16,5 +16,5 @@ Lo curioso de esta primitiva es que pareciera devolver siempre uno menos de lo e
 > Probá lo siguiente:
 >
 > ```javascript
-> diasLaborales.indexOf("osvaldo")
+> ム diasLaborales.indexOf("osvaldo")
 > ```
