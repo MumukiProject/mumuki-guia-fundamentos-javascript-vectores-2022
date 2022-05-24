@@ -10,6 +10,14 @@ Por suerte también podemos representar conjuntos de números o booleanos, de ig
 
 > Veamos si queda claro. Probá en orden en la consola las siguientes consultas: 
 > 
-> * `numerosDeLoteria`
-> * `salioCara`
-> * `[[1, 2, 3], [4, 5, 6]]`
+>``` javascript
+ム numerosDeLoteria
+```
+>
+>``` javascript
+ム salioCara
+```
+>
+>``` javascript
+ム [[1, 2, 3], [4, 5, 6]]
+```

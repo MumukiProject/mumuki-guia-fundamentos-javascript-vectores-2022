@@ -4,15 +4,39 @@ Lo que acabamos de ver es cómo modelar fácilmente conjuntos de cosas. Mediante
 
 Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo mismo `["hola", "mundo"]` que `["mundo", "hola"]`: ambos tienen los mismos elementos, pero en posiciones diferentes. 
 
-> Probá en orden en la consola las siguientes consultas: 
+> Probá en orden las siguientes consultas, para eso copiá y pegá cada una en la consola: 
 > 
-> * `listasIguales(["hola", "mundo"], ["mundo", "hola"])`
-> * `listasIguales(["hola", "mundo"], ["hola", "mundo"])`
-> * `listasIguales(["hola", "mundo"], ["hola", "todo", "el", "mundo"])`
-> * `listasIguales(["hola"], ["hola", "mundo"])`
-> * `["hola", "mundo"] === ["mundo", "hola"]`
-> * `personas`
-> * `["mara", "julian"] === personas`
-> * `personas === personas`
+>``` javascript
+ム listasIguales(["hola", "mundo"], ["mundo", "hola"])
+```
+>
+>``` javascript
+ム listasIguales(["hola", "mundo"], ["hola", "mundo"])
+```
+>
+>``` javascript
+ム listasIguales(["hola", "mundo"], ["hola", "todo", "el", "mundo"])
+```
+>
+>``` javascript
+ム listasIguales(["hola"], ["hola", "mundo"])
+```
+>
+>``` javascript
+ム ["hola", "mundo"] === ["mundo", "hola"]
+```
+>
+>``` javascript
+ム personas
+```
+>
+>``` javascript
+ム ["mara", "julian"] === personas
+```
+>
+>``` javascript
+ム personas === personas
+```
+>
 
 > ¿Qué conclusiones podés sacar? :thought_balloon:
