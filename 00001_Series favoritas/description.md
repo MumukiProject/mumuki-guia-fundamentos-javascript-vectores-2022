@@ -7,10 +7,20 @@ let seriesFavoritasDeHector = ["En Terapia", "Recordando el Show de Alejandro Mo
 
 Como ves, para representar a un conjunto de strings, colocamos todos esos strings que nos interesan, entre corchetes (`[` y `]`) separados por comas. Fácil, ¿no?
 
-> Probá en orden en la consola las siguientes consultas:
+> Probá en orden las siguientes consultas. Para eso copialas y pegalas en la consola:
 >
-> * `seriesFavoritasDeAna`
-> * `seriesFavoritasDeHector`
-> * `["hola","mundo!"]`
-> * `["hola","hola"]`
-
+>``` javascript
+ム seriesFavoritasDeAna
+```
+>
+>``` javascript
+ム seriesFavoritasDeHector
+```
+>
+>``` javascript
+ム ["hola","mundo!"]
+```
+>
+>``` javascript
+ム ["hola","hola"]
+```
