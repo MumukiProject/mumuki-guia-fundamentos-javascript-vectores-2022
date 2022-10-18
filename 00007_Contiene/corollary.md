@@ -6,7 +6,7 @@ Nuestra función `contiene` ya existe en JavaScript pero se llama `includes`, ¡
 ム [1, 6, 7, 6].includes(7)
 true
 
-ム [8, 7].includes(7)
+ム [8, 5].includes(7)
 false
 ```
 
